@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sameer is a Front end Developer. I have strong technical skills and I am EE undergraduate student of 2022-26 batch from Govt. Purnea College Of Engineering affiliated with Bihar Engineering University Patna. Currently I am learning DSA and Python.<br><br>Please feel free to get in touch with me via email at contact.sameer04@gmail.com .
+Sameer is a Front end Developer. I have strong technical skills and I am EE undergraduate student of 2022-26 batch from Govt. Purnea College Of Engineering affiliated with Bihar Engineering University Patna. Currently I am learning DSA and JAVA.<br><br>Please feel free to get in touch with me via email at contact.sameer04@gmail.com .
 
 
 ## 🌐 Socials:
