@@ -28,7 +28,7 @@
       <h4>⚡ Daily Habits</h4>
       <ul>
         <li>☕ Powered by Coffee & Code</li>
-        <li>🛠️ Building <b>theplator.tech</b></li>
+        <li>🛠️ Building <b>theplator.dev</b></li>
         <li>🔭 Learning: Deep Learning & System Design</li>
         <li>💬 Ask me about: <b>JavaScript, React, Scaling APIs</b></li>
       </ul>
